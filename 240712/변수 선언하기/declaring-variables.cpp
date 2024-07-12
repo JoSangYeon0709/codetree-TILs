@@ -6,10 +6,9 @@ int main() {
     int a;
     char b;
     a=3;
-    b= 'c';
+    b= 'C';
 
-    cout << a;
-    cout << b;
+    cout << a << endl << b << endl;
 
     return 0;
 }
